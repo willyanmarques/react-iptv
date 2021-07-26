@@ -1,0 +1,13 @@
+#EXTM3U size="Big"
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
+#EXTBG:https://i.imgur.com/JCcgEeo.png
+http://office.xcore.ca/ssiptv/get/7f11mm3r/wto7gqld/list_lives/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
+#EXTBG:https://i.imgur.com/vnPmfhz.png
+http://office.xcore.ca/ssiptv/get/7f11mm3r/wto7gqld/movie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
+#EXTBG:https://i.imgur.com/vJD9S1U.png
+http://office.xcore.ca/ssiptv/get/7f11mm3r/wto7gqld/serie_categories/
+#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",24 HORAS
+#EXTBG:https://i.imgur.com/5YX6SmJ.png
+http://office.xcore.ca/ssiptv/get/7f11mm3r/wto7gqld/list_created_channels/

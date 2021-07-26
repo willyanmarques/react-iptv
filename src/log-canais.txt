@@ -1,0 +1,637 @@
+### canal: [24h] Cine Super Lançamentos ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39470.m3u8
+### canal: [24h] Horas Cine Comédia ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39463.m3u8
+### canal: [24h] Horas Cine Familia ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39469.m3u8
+### canal: [24h] Horas Cine Marvel ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39465.m3u8
+### canal: [24h] Horas Cine Oscar ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39467.m3u8
+### canal: [24h] Horas Cine Romance ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39468.m3u8
+### canal: [24h] Horas Cine Terror ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39466.m3u8
+### canal: [24h] Horas Cine Vingadores ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39464.m3u8
+### canal: A&E +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/42.m3u8
+### canal: A&E +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1.m3u8
+### canal: A&E HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40676.m3u8
+### canal: A&E HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41183.m3u8
+### canal: AMC +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/43.m3u8
+### canal: AMC HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41184.m3u8
+### canal: Animal Planet +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/44.m3u8
+### canal: Animal Planet HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40677.m3u8
+### canal: Animal Planet HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38447.m3u8
+### canal: Animal Planet HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/466.m3u8
+### canal: Animal Planet UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38856.m3u8
+### canal: Art 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/45.m3u8
+### canal: Arte 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40917.m3u8
+### canal: AXN +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/46.m3u8
+### canal: AXN +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/2.m3u8
+### canal: AXN HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40678.m3u8
+### canal: AXN HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/469.m3u8
+### canal: Axn HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/468.m3u8
+### canal: AXN HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41185.m3u8
+### canal: Baby +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/47.m3u8
+### canal: Baby HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/470.m3u8
+### canal: Band Bahia HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39483.m3u8
+### canal: Band Campinas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39484.m3u8
+### canal: Band HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40670.m3u8
+### canal: Band HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/471.m3u8
+### canal: Band HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40808.m3u8
+### canal: Band News +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/48.m3u8
+### canal: Band News HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40918.m3u8
+### canal: Band News HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/472.m3u8
+### canal: Band PR +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/49.m3u8
+### canal: Band PR HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39485.m3u8
+### canal: Band RJ HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38544.m3u8
+### canal: Band RJ HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40809.m3u8
+### canal: Band Sergipe HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39486.m3u8
+### canal: Band SP +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/50.m3u8
+### canal: Band SP +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/3.m3u8
+### canal: Band Sports +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/51.m3u8
+### canal: Band Sports HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/474.m3u8
+### canal: Band Sports HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40869.m3u8
+### canal: Band Sports HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/473.m3u8
+### canal: Band UHD_4K ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38850.m3u8
+### canal: BandSports HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40679.m3u8
+### canal: BIS +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/52.m3u8
+### canal: Bis HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38602.m3u8
+### canal: Boomerang +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/53.m3u8
+### canal: Boomerang HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40680.m3u8
+### canal: Boomerang HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/476.m3u8
+### canal: Boomerang HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/475.m3u8
+### canal: Brazzers HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40320.m3u8
+### canal: Cancao Nova +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/55.m3u8
+### canal: Canção Nova HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38604.m3u8
+### canal: Cartoon Network +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/56.m3u8
+### canal: Cartoon Network HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40681.m3u8
+### canal: Cartoon Network HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38449.m3u8
+### canal: Cartoon Network HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40810.m3u8
+### canal: Cartoon Network HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/477.m3u8
+### canal: Cartoon Network UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38859.m3u8
+### canal: Cine Desenhos+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/168.m3u8
+### canal: Cine Pipoca #1 (Lançamentos TeleCine) ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39455.m3u8
+### canal: Cine Pipoca #2 (Lançamentos TeleCine) ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39456.m3u8
+### canal: Cine Pipoca #3 (Lançamentos TeleCine) ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39457.m3u8
+### canal: Cine Pipoca #4 (Lançamentos TeleCine) ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39458.m3u8
+### canal: Cine Pipoca #5 (Lançamentos TeleCine) ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39459.m3u8
+### canal: Cine SKY 01 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38580.m3u8
+### canal: Cine SKY 01 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40793.m3u8
+### canal: Cine SKY 02 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38581.m3u8
+### canal: Cine Sky 02 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40794.m3u8
+### canal: Cine SKY 03 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38582.m3u8
+### canal: Cine Sky 03 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40795.m3u8
+### canal: Cine SKY 04 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38583.m3u8
+### canal: Cine Sky 04 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40796.m3u8
+### canal: Cine SKY 05 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38584.m3u8
+### canal: Cine Sky 05 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40797.m3u8
+### canal: Cine SKY 06 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38585.m3u8
+### canal: Cine SKY 07 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38586.m3u8
+### canal: Cine SKY 08 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38587.m3u8
+### canal: Cine SKY 09 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38588.m3u8
+### canal: Cine SKY 10 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38589.m3u8
+### canal: Cine Western+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/167.m3u8
+### canal: Cinemax +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/57.m3u8
+### canal: Cinemax HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40919.m3u8
+### canal: Cinemax HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/488.m3u8
+### canal: CNN +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/4.m3u8
+### canal: CNN Brasil +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/58.m3u8
+### canal: CNN Brasil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40672.m3u8
+### canal: CNN Brasil HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38607.m3u8
+### canal: Combate +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/59.m3u8
+### canal: Combate +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/5.m3u8
+### canal: Combate HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/489.m3u8
+### canal: Combate UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38829.m3u8
+### canal: Comedy Central +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/60.m3u8
+### canal: Comedy Central HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40682.m3u8
+### canal: Comedy Central HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38606.m3u8
+### canal: Comedy Central HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/490.m3u8
+### canal: Conmebol TV 1  SD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40800.m3u8
+### canal: Conmebol TV 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39489.m3u8
+### canal: CONMEBOL TV 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/491.m3u8
+### canal: CONMEBOL TV 1 HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41189.m3u8
+### canal: Conmebol TV 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39490.m3u8
+### canal: CONMEBOL TV 2 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/493.m3u8
+### canal: CONMEBOL TV 2 HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41190.m3u8
+### canal: Conmebol TV 3 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39491.m3u8
+### canal: CONMEBOL TV 3 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/495.m3u8
+### canal: Conmebol TV 3 SD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40878.m3u8
+### canal: Conmebol TV 4 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39492.m3u8
+### canal: CONMEBOL TV 4 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/494.m3u8
+### canal: Conmebol TV 4 SD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40879.m3u8
+### canal: Cultura +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/61.m3u8
+### canal: Curta! +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/54.m3u8
+### canal: Curta! HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40920.m3u8
+### canal: Curta! HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38603.m3u8
+### canal: DAZN 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38578.m3u8
+### canal: DAZN 2³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38579.m3u8
+### canal: DAZN 4³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38546.m3u8
+### canal: DAZN HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/497.m3u8
+### canal: DAZN HD¹ 3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/499.m3u8
+### canal: Desenhos Clássicos+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/62.m3u8
+### canal: Desenhos Disney+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/63.m3u8
+### canal: Discovery Channel +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/64.m3u8
+### canal: Discovery Channel +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/6.m3u8
+### canal: Discovery Channel HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40683.m3u8
+### canal: Discovery Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38849.m3u8
+### canal: Discovery Channel HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40799.m3u8
+### canal: Discovery Channel UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38853.m3u8
+### canal: Discovery Home & Health +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/65.m3u8
+### canal: Discovery Home & Health +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/7.m3u8
+### canal: Discovery Home & Health HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40684.m3u8
+### canal: Discovery Home & Health HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38450.m3u8
+### canal: Discovery Kids +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/66.m3u8
+### canal: Discovery Kids HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40686.m3u8
+### canal: Discovery Kids HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38452.m3u8
+### canal: Discovery Kids HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/504.m3u8
+### canal: Discovery Science +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/67.m3u8
+### canal: Discovery Science HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40687.m3u8
+### canal: Discovery Science HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38451.m3u8
+### canal: Discovery Science HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/506.m3u8
+### canal: Discovery Theater +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/68.m3u8
+### canal: Discovery Theater HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40688.m3u8
+### canal: Discovery Theater HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38608.m3u8
+### canal: Discovery Theater HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/507.m3u8
+### canal: Discovery Turbo +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/69.m3u8
+### canal: Discovery Turbo +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/8.m3u8
+### canal: Discovery Turbo HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40689.m3u8
+### canal: Discovery Turbo HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38453.m3u8
+### canal: Discovery Turbo HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/508.m3u8
+### canal: Discovery World +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/70.m3u8
+### canal: Discovery World HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38609.m3u8
+### canal: Discovery World HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/509.m3u8
+### canal: Disney Channel  +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/71.m3u8
+### canal: Disney Channel +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/9.m3u8
+### canal: Disney Channel HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40690.m3u8
+### canal: Disney Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38454.m3u8
+### canal: Disney Channel HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/510.m3u8
+### canal: Disney Junior +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/72.m3u8
+### canal: Disney Junior HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40691.m3u8
+### canal: Disney Junior HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38561.m3u8
+### canal: Disney XD +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/73.m3u8
+### canal: Disney XD HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38610.m3u8
+### canal: DORCEL TV HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40321.m3u8
+### canal: E! +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/74.m3u8
+### canal: E! HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40921.m3u8
+### canal: E! HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38611.m3u8
+### canal: EPTV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/75.m3u8
+### canal: ﻿EPTV Campinas HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40936.m3u8
+### canal: EPTV Campinas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38462.m3u8
+### canal: EPTV Central HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40739.m3u8
+### canal: EPTV Ribeirão HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40937.m3u8
+### canal: EPTV Sul de Minas HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40741.m3u8
+### canal: ESPN 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/79.m3u8
+### canal: ESPN 1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/11.m3u8
+### canal: ESPN 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40692.m3u8
+### canal: ESPN 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38612.m3u8
+### canal: ESPN 1 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40813.m3u8
+### canal: ESPN 1 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/516.m3u8
+### canal: ESPN 1 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38863.m3u8
+### canal: ESPN 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/76.m3u8
+### canal: ESPN 2 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40693.m3u8
+### canal: ESPN 2 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38613.m3u8
+### canal: ESPN 2 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/512.m3u8
+### canal: ESPN Brasil +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/77.m3u8
+### canal: ESPN Brasil +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/10.m3u8
+### canal: ESPN Brasil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40694.m3u8
+### canal: ESPN Brasil HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38457.m3u8
+### canal: ESPN Brasil HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40807.m3u8
+### canal: Espn Brasil HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/513.m3u8
+### canal: ESPN Extra +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/78.m3u8
+### canal: ESPN Extra HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/514.m3u8
+### canal: Estádio TNT Sports +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/5813.m3u8
+### canal: Fashion TV Brazil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40922.m3u8
+### canal: Film&Arts +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/80.m3u8
+### canal: Fish TV HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38614.m3u8
+### canal: FishTV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/81.m3u8
+### canal: Food Network HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40923.m3u8
+### canal: Food Network HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38615.m3u8
+### canal: Food Network HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/517.m3u8
+### canal: Fox +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/82.m3u8
+### canal: Fox HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38616.m3u8
+### canal: FOX Life +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/83.m3u8
+### canal: Fox Life HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38458.m3u8
+### canal: Fox Premium 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/85.m3u8
+### canal: Fox Premium 1 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40814.m3u8
+### canal: Fox Premium 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/84.m3u8
+### canal: Fox Premium 2 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40815.m3u8
+### canal: FOX Sports 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/87.m3u8
+### canal: Fox Sports 1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/13.m3u8
+### canal: Fox Sports 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40698.m3u8
+### canal: Fox Sports 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38460.m3u8
+### canal: Fox Sports 1 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40871.m3u8
+### canal: Fox Sports 1 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/524.m3u8
+### canal: Fox Sports 1 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38854.m3u8
+### canal: Fox Sports 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/86.m3u8
+### canal: Fox Sports 2 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/12.m3u8
+### canal: Fox Sports 2 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40699.m3u8
+### canal: Fox Sports 2 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/523.m3u8
+### canal: Fox Sports 2 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38861.m3u8
+### canal: Futura +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40485.m3u8
+### canal: FX +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/88.m3u8
+### canal: FX HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40924.m3u8
+### canal: FX HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38617.m3u8
+### canal: FX HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/526.m3u8
+### canal: Gazeta UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38867.m3u8
+### canal: Globo Anhanguera Goiânia³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38641.m3u8
+### canal: Globo Bahia HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/527.m3u8
+### canal: Globo Brasília HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40721.m3u8
+### canal: Globo Brasilia HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/528.m3u8
+### canal: Globo Brasilia HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38461.m3u8
+### canal: Globo Itapetininga SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38466.m3u8
+### canal: Globo Minas HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/533.m3u8
+### canal: Globo Minas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38467.m3u8
+### canal: Globo Minas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39861.m3u8
+### canal: Globo Minas HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41187.m3u8
+### canal: Globo Mirante HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38468.m3u8
+### canal: Globo News +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/90.m3u8
+### canal: Globo News HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40925.m3u8
+### canal: Globo News HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/534.m3u8
+### canal: Globo Nordeste HD ² ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/535.m3u8
+### canal: Globo Ribeirão Preto ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38821.m3u8
+### canal: Globo RJ HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/538.m3u8
+### canal: Globo RJ HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38443.m3u8
+### canal: Globo RJ HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1070.m3u8
+### canal: Globo RJ HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41188.m3u8
+### canal: Globo SP +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/89.m3u8
+### canal: Globo SP +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/14.m3u8
+### canal: Globo SP HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/539.m3u8
+### canal: Globo SP HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38441.m3u8
+### canal: Globo SP HD_1080p  #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/540.m3u8
+### canal: Globo SP HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41186.m3u8
+### canal: Globo UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38873.m3u8
+### canal: Gloob +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/91.m3u8
+### canal: Gloob HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/542.m3u8
+### canal: Gloobinho HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/543.m3u8
+### canal: GNT +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/92.m3u8
+### canal: GNT +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39.m3u8
+### canal: GNT HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38618.m3u8
+### canal: GNT HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40816.m3u8
+### canal: H2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/93.m3u8
+### canal: H2 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/15.m3u8
+### canal: H2 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40703.m3u8
+### canal: H2 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38475.m3u8
+### canal: H2 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/545.m3u8
+### canal: HBO 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/96.m3u8
+### canal: HBO 1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/17.m3u8
+### canal: HBO 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40700.m3u8
+### canal: HBO 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38478.m3u8
+### canal: HBO 1 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40818.m3u8
+### canal: HBO 1 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/549.m3u8
+### canal: HBO 1 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38865.m3u8
+### canal: HBO 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/94.m3u8
+### canal: HBO 2 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38476.m3u8
+### canal: HBO 2 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/546.m3u8
+### canal: HBO Family +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/95.m3u8
+### canal: HBO Family +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/16.m3u8
+### canal: HBO Family HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38477.m3u8
+### canal: HBO Family HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40817.m3u8
+### canal: HBO Mundi +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/97.m3u8
+### canal: HBO Mundi HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38479.m3u8
+### canal: HBO Mundi HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/550.m3u8
+### canal: HBO Mundi HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40819.m3u8
+### canal: HBO Plus +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/98.m3u8
+### canal: HBO Plus HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38480.m3u8
+### canal: HBO Plus HD_1080p #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40820.m3u8
+### canal: HBO Plus*e HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38481.m3u8
+### canal: HBO Pop +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/99.m3u8
+### canal: HBO Pop HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38482.m3u8
+### canal: HBO Pop HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40821.m3u8
+### canal: HBO Pop HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/552.m3u8
+### canal: HBO Signature +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/100.m3u8
+### canal: HBO Signature HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38483.m3u8
+### canal: HBO Signature HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40822.m3u8
+### canal: HBO Xtreme +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/101.m3u8
+### canal: HBO Xtreme HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38484.m3u8
+### canal: HBO Xtreme HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40823.m3u8
+### canal: HBO Xtreme UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38870.m3u8
+### canal: HGTV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/102.m3u8
+### canal: HGTV HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40701.m3u8
+### canal: HGTV HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38485.m3u8
+### canal: HGTV HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40824.m3u8
+### canal: History Channel +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/103.m3u8
+### canal: History Channel +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/18.m3u8
+### canal: History Channel HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40702.m3u8
+### canal: History Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38486.m3u8
+### canal: History Channel HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40825.m3u8
+### canal: Holed UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40322.m3u8
+### canal: ID +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/104.m3u8
+### canal: ID Investigação Discovery HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40685.m3u8
+### canal: ID Investigação Discovery HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38487.m3u8
+### canal: ID Investigação Discovery HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40826.m3u8
+### canal: Inter TV Alto Litoral HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40938.m3u8
+### canal: Inter TV Cabugi HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40939.m3u8
+### canal: Inter TV dos Vales HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40767.m3u8
+### canal: Inter TV Grande Minas HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40766.m3u8
+### canal: Inter TV Planície HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40740.m3u8
+### canal: Inter TV RN (Rio Grande do Norte) SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38463.m3u8
+### canal: Inter TV Serra Mar HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40765.m3u8
+### canal: InterTV Alto Litoral HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38464.m3u8
+### canal: InterTV RJ Região Serrana HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1069.m3u8
+### canal: InterTV Serra Mar SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38465.m3u8
+### canal: Lifetime +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/105.m3u8
+### canal: Lifetime HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40926.m3u8
+### canal: Loading HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40713.m3u8
+### canal: Loading HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39878.m3u8
+### canal: Love Nature +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/106.m3u8
+### canal: Mais Globosat +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/107.m3u8
+### canal: Mais na Tela HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38488.m3u8
+### canal: Megapix +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/108.m3u8
+### canal: Megapix HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38489.m3u8
+### canal: Megapix HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/559.m3u8
+### canal: Megapix UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38860.m3u8
+### canal: MTV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/109.m3u8
+### canal: MTV +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/34.m3u8
+### canal: MTV HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40704.m3u8
+### canal: MTV HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38490.m3u8
+### canal: MTV HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/560.m3u8
+### canal: MTV Live HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40927.m3u8
+### canal: Multishow +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/110.m3u8
+### canal: Multishow +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38.m3u8
+### canal: Multishow HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38491.m3u8
+### canal: Multishow HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40872.m3u8
+### canal: Multishow HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/561.m3u8
+### canal: Multishow UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38858.m3u8
+### canal: Music Box Brazil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40675.m3u8
+### canal: Music Box Brazil HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38492.m3u8
+### canal: Nat Geo Kids +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/112.m3u8
+### canal: Nat Geo Kids HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40705.m3u8
+### canal: Nat Geo Kids HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38493.m3u8
+### canal: Nat Geo Wild +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/113.m3u8
+### canal: Nat Geo Wild HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38494.m3u8
+### canal: National Geographic +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/111.m3u8
+### canal: National Geographic +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/19.m3u8
+### canal: National Geographic HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40706.m3u8
+### canal: National Geographic HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38495.m3u8
+### canal: National Geographic UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38862.m3u8
+### canal: NHK +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/114.m3u8
+### canal: Nick Jr HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38496.m3u8
+### canal: Nick Jr. HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40708.m3u8
+### canal: Nick Junior +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/115.m3u8
+### canal: Nickelodeon +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/116.m3u8
+### canal: Nickelodeon HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40707.m3u8
+### canal: Nickelodeon HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38497.m3u8
+### canal: NSC Blumenau HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38442.m3u8
+### canal: NSC Chapecó HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39488.m3u8
+### canal: NSC Florianópolis HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/531.m3u8
+### canal: NSC Florianopolis HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38469.m3u8
+### canal: NSC TV Florianópolis HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40764.m3u8
+### canal: OFF +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/117.m3u8
+### canal: Off HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38619.m3u8
+### canal: Paramount Channel +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/118.m3u8
+### canal: Paramount Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38498.m3u8
+### canal: Paramount HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40709.m3u8
+### canal: Playboy +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/119.m3u8
+### canal: PlayBoy HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40324.m3u8
+### canal: PLAYBOY TV HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40325.m3u8
+### canal: Power Couple Brasil 2021 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40717.m3u8
+### canal: Power Couple Brasil 2021 SD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40718.m3u8
+### canal: Power Couple Brasil HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40181.m3u8
+### canal: Premiere 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/125.m3u8
+### canal: Premiere 1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/20.m3u8
+### canal: Premiere 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40730.m3u8
+### canal: Premiere 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38506.m3u8
+### canal: Premiere 1 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40804.m3u8
+### canal: Premiere 1 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/571.m3u8
+### canal: Premiere 1 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38852.m3u8
+### canal: Premiere 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/120.m3u8
+### canal: Premiere 2 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40731.m3u8
+### canal: Premiere 2 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38499.m3u8
+### canal: Premiere 2 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40827.m3u8
+### canal: Premiere 3 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/121.m3u8
+### canal: Premiere 3 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40732.m3u8
+### canal: Premiere 3 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38500.m3u8
+### canal: Premiere 3 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40828.m3u8
+### canal: Premiere 4 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/122.m3u8
+### canal: Premiere 4 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40733.m3u8
+### canal: Premiere 4 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/573.m3u8
+### canal: Premiere 4 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38501.m3u8
+### canal: Premiere 4 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40829.m3u8
+### canal: Premiere 5 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/123.m3u8
+### canal: Premiere 5 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40734.m3u8
+### canal: Premiere 5 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38502.m3u8
+### canal: Premiere 5 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40830.m3u8
+### canal: Premiere 5 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40790.m3u8
+### canal: Premiere 6 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/124.m3u8
+### canal: Premiere 6 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40735.m3u8
+### canal: Premiere 6 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38503.m3u8
+### canal: Premiere 6 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40831.m3u8
+### canal: Premiere 7 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40736.m3u8
+### canal: Premiere 7 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40832.m3u8
+### canal: Premiere 7 SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38504.m3u8
+### canal: Premiere 8 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40737.m3u8
+### canal: Premiere 8 SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38505.m3u8
+### canal: Prime Box Brazil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40674.m3u8
+### canal: Ratimbum +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/126.m3u8
+### canal: RBS Porto Alegre HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38470.m3u8
+### canal: Rbs Porto Alegre HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/536.m3u8
+### canal: RBS Santa Maria HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38823.m3u8
+### canal: RBS TV Porto Alegre SD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40719.m3u8
+### canal: Record Bahia HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38510.m3u8
+### canal: Record Campinas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38507.m3u8
+### canal: Record Campinas SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38508.m3u8
+### canal: Record DF HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38509.m3u8
+### canal: Record MG HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38511.m3u8
+### canal: Record News +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/127.m3u8
+### canal: Record News HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40671.m3u8
+### canal: Record RJ HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39303.m3u8
+### canal: Record RS SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38514.m3u8
+### canal: Record SP +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/128.m3u8
+### canal: Record SP +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/21.m3u8
+### canal: Record SP HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38515.m3u8
+### canal: Record SP HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38571.m3u8
+### canal: Record SP SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38516.m3u8
+### canal: Record TV Amazonas HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38517.m3u8
+### canal: Record TV Belém HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40934.m3u8
+### canal: Record TV Brasilia HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40932.m3u8
+### canal: Record TV Goias HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40933.m3u8
+### canal: Record TV HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40716.m3u8
+### canal: Record TV HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40833.m3u8
+### canal: Record TV Itapoan HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40788.m3u8
+### canal: Record TV Manaus HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40935.m3u8
+### canal: Record TV Minas HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40931.m3u8
+### canal: Record TV Rio HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40930.m3u8
+### canal: Record TV RS HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40768.m3u8
+### canal: Record TV SP HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40769.m3u8
+### canal: Record UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38851.m3u8
+### canal: Rede Amazônica Boa Vista HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40763.m3u8
+### canal: Rede Amazônica Macapá HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40762.m3u8
+### canal: Rede Amazônica Manaus HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40761.m3u8
+### canal: Rede Amazônica Porto Velho HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40760.m3u8
+### canal: Rede Amazônica Rio Branco HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40759.m3u8
+### canal: Rede Vida +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/130.m3u8
+### canal: RedeTV! +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/131.m3u8
+### canal: Redetv! +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/22.m3u8
+### canal: RedeTV! HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40714.m3u8
+### canal: RedeTV! HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38518.m3u8
+### canal: RedeTV! UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38866.m3u8
+### canal: RIC TV - RecordTV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/132.m3u8
+### canal: RPC Curitiba +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/133.m3u8
+### canal: RPC Curitiba +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/36.m3u8
+### canal: RPC Curitiba HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40720.m3u8
+### canal: RPC Curitiba HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40758.m3u8
+### canal: RPC Curitiba HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/529.m3u8
+### canal: RPC Curitiba HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38444.m3u8
+### canal: SBT +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/23.m3u8
+### canal: SBT Goias HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38519.m3u8
+### canal: SBT HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40715.m3u8
+### canal: SBT HD Parana #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40836.m3u8
+### canal: SBT Paraná +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/129.m3u8
+### canal: Sbt Paraná HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39481.m3u8
+### canal: SBT RJ HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38521.m3u8
+### canal: SBT SP +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/134.m3u8
+### canal: SBT SP HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38523.m3u8
+### canal: SBT SP HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38577.m3u8
+### canal: SBT SP SD³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38524.m3u8
+### canal: SBT TV Aratu Bahia³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38525.m3u8
+### canal: SBT UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38855.m3u8
+### canal: Sex Prive HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40326.m3u8
+### canal: Sex Treme HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40327.m3u8
+### canal: Sextreme+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/135.m3u8
+### canal: Sexy Hot HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40328.m3u8
+### canal: Sexyhot +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/136.m3u8
+### canal: Smithsonian +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/137.m3u8
+### canal: Smithsonian +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/24.m3u8
+### canal: Sony +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/138.m3u8
+### canal: Sony HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40710.m3u8
+### canal: Sony HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40837.m3u8
+### canal: Space +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/139.m3u8
+### canal: Space HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1079.m3u8
+### canal: Space UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38874.m3u8
+### canal: SporTV 1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/142.m3u8
+### canal: SporTV 1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/27.m3u8
+### canal: Sportv 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1076.m3u8
+### canal: SporTV 1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40789.m3u8
+### canal: SporTV 1 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38572.m3u8
+### canal: SporTV 1 UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38857.m3u8
+### canal: SporTV 2 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/140.m3u8
+### canal: Sportv 2 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/25.m3u8
+### canal: Sportv 2 HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40838.m3u8
+### canal: Sportv 2 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1075.m3u8
+### canal: SporTV 3 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/141.m3u8
+### canal: Sportv 3 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/26.m3u8
+### canal: Sportv 3 HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1074.m3u8
+### canal: Star Channel HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40695.m3u8
+### canal: STAR CHANNEL HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41191.m3u8
+### canal: Star Channel UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38872.m3u8
+### canal: Star Hits 1 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40696.m3u8
+### canal: Star Hits 2 HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40697.m3u8
+### canal: Studio Universal +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/143.m3u8
+### canal: Studio Universal HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38526.m3u8
+### canal: SyFy +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/144.m3u8
+### canal: SyFy HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38437.m3u8
+### canal: Syfy HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1078.m3u8
+### canal: TBS +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/145.m3u8
+### canal: TBS HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38528.m3u8
+### canal: TCM +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/146.m3u8
+### canal: TCM HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38529.m3u8
+### canal: Telecine Action +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/147.m3u8
+### canal: Telecine Action HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/574.m3u8
+### canal: Telecine Action HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38530.m3u8
+### canal: Telecine Action HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40840.m3u8
+### canal: Telecine Action HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38573.m3u8
+### canal: Telecine Cult +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/148.m3u8
+### canal: Telecine Cult HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38531.m3u8
+### canal: Telecine Cult HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40841.m3u8
+### canal: Telecine Cult HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/575.m3u8
+### canal: Telecine Fun +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/149.m3u8
+### canal: Telecine Fun HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38532.m3u8
+### canal: Telecine Fun HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40842.m3u8
+### canal: Telecine Fun HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/576.m3u8
+### canal: Telecine Pipoca +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/150.m3u8
+### canal: Telecine Pipoca +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/28.m3u8
+### canal: Telecine Pipoca HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38533.m3u8
+### canal: Telecine Pipoca HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40843.m3u8
+### canal: Telecine Pipoca HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/577.m3u8
+### canal: Telecine Pipoca UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38871.m3u8
+### canal: Telecine Premium +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/151.m3u8
+### canal: Telecine Premium +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/29.m3u8
+### canal: Telecine Premium HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38534.m3u8
+### canal: Telecine Premium HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/578.m3u8
+### canal: Telecine Premium UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38864.m3u8
+### canal: Telecine Touch +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/152.m3u8
+### canal: Telecine Touch HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38438.m3u8
+### canal: Telecine Touch HD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40845.m3u8
+### canal: Telecine Touch HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38576.m3u8
+### canal: TLC +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/153.m3u8
+### canal: TNT +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/154.m3u8
+### canal: TNT +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/30.m3u8
+### canal: TNT HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/581.m3u8
+### canal: TNT HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/580.m3u8
+### canal: TNT HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41193.m3u8
+### canal: TNT Series +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/155.m3u8
+### canal: TNT Series +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/31.m3u8
+### canal: TNT Séries HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40711.m3u8
+### canal: TNT Series HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38439.m3u8
+### canal: TNT Series UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38869.m3u8
+### canal: TNT Sports 1³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38455.m3u8
+### canal: TNT Sports 2³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38456.m3u8
+### canal: Tnt Sports 3 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39451.m3u8
+### canal: TNT UHD_4k ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38868.m3u8
+### canal: Tooncast +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/156.m3u8
+### canal: Tooncast HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38537.m3u8
+### canal: Travel Box Brazil HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40916.m3u8
+### canal: TruTV HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40928.m3u8
+### canal: TV Anhanguera Goiânia HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40757.m3u8
+### canal: TV Aparecida +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/157.m3u8
+### canal: Tv Assembleia Ceara SD #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40856.m3u8
+### canal: TV Bahia HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40728.m3u8
+### canal: TV Bahia HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38472.m3u8
+### canal: TV Brasil +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/5814.m3u8
+### canal: TV Brasil DF #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40847.m3u8
+### canal: TV Caruaru PE #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40852.m3u8
+### canal: TV Centro-américa Cuiabá HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40738.m3u8
+### canal: TV Cultura HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40673.m3u8
+### canal: TV Diario HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38473.m3u8
+### canal: TV EParana (Cultura PR) #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40851.m3u8
+### canal: TV Fronteira HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40727.m3u8
+### canal: TV Gazeta HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40726.m3u8
+### canal: TV Gazeta Sul ES HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38474.m3u8
+### canal: TV Globo Nordeste HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40724.m3u8
+### canal: TV Guarulhos SP #4 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40855.m3u8
+### canal: TV Integração Uberlândia HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40756.m3u8
+### canal: TV Liberal Belém HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40755.m3u8
+### canal: TV Minas HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40725.m3u8
+### canal: TV Mirante Cocais HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40754.m3u8
+### canal: TV Mirante Imperatriz HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40753.m3u8
+### canal: TV Mirante São Luiz HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40752.m3u8
+### canal: TV Morena Campo Grande HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40751.m3u8
+### canal: Tv Morena³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40180.m3u8
+### canal: TV Playkids³ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38539.m3u8
+### canal: TV Sergipe HD¹ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/1071.m3u8
+### canal: TV TEM Bauru HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40750.m3u8
+### canal: TV TEM Itapetininga HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40749.m3u8
+### canal: TV TEM São José do Rio Preto HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40748.m3u8
+### canal: TV TEM Sorocaba HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40729.m3u8
+### canal: TV Tribuba +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/158.m3u8
+### canal: TV Tribuna +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/37.m3u8
+### canal: TV Tribuna HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40746.m3u8
+### canal: Tv Vanguarda S.J dos Campos ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39482.m3u8
+### canal: TV Verdes Mares Cariri HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40745.m3u8
+### canal: TV Verdes Mares Fortaleza HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40744.m3u8
+### canal: Universal +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/32.m3u8
+### canal: Universal Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38540.m3u8
+### canal: Universal Channel HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/582.m3u8
+### canal: Universal TV +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/159.m3u8
+### canal: Vanguarda São José dos Campos HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40743.m3u8
+### canal: Vanguarda Taubaté HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40742.m3u8
+### canal: Venus +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/160.m3u8
+### canal: Venus HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40329.m3u8
+### canal: Venus HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40330.m3u8
+### canal: Verdes Mares HD¹ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/541.m3u8
+### canal: VH1 +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/161.m3u8
+### canal: VH1 +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/35.m3u8
+### canal: VH1 HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38440.m3u8
+### canal: Viva +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/162.m3u8
+### canal: Viva +SD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/33.m3u8
+### canal: Warner Channel +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/163.m3u8
+### canal: Warner Channel HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/38542.m3u8
+### canal: Warner Channel HD_1080p #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/584.m3u8
+### canal: Warner Channel HD++ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/41192.m3u8
+### canal: Warner HD #2 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40712.m3u8
+### canal: Woohoo +HD ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/164.m3u8
+### canal: XxX 4K GUM+ ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/165.m3u8
+### canal: XXX Adulto + ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40331.m3u8
+### canal: XXX Adulto Brazil ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40332.m3u8
+### canal: XXX Adulto Brazilian ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40333.m3u8
+### canal: XXX Adulto Chicks ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40334.m3u8
+### canal: XXX Adulto Gay ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40335.m3u8
+### canal: XXX Adulto Movies ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40336.m3u8
+### canal: XXX Adulto Other ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40337.m3u8
+### canal: XXX Adulto Paradise ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40338.m3u8
+### canal: XXX Adulto Trans ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/40339.m3u8
+### canal: Zoomoo HD #3 ### url: http://cdn.teambr.live:80/live/7f11mm3r/wto7gqld/39473.m3u8
